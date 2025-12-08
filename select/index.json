@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "十万億土",
+  "base_artist": "天音かなた",
+  "createdAt": "2025-12-08T05:48:39.461424Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "十万億土",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_十万億土_天音かなた.txt"
+    }
+  ]
+}
